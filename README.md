@@ -1,2 +1,2 @@
 # svg-render-weather
-Created with CodeSandbox
+Testing sVG patterns for a WIP React Weather Component
