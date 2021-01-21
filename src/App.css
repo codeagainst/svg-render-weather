@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+#mainwidget {
+  display: table;
+  margin: 50px auto 0;
+}
+.leftRect {
+  fill: blue;
+  fill-opacity: 0.1;
+}
+.currentDate {
+  fill: rgb(0 0 0 / 52%);
+}
+.currentDateText {
+  text-align: center;
+  fill: #fff;
+  font-size: 13px;
+}
+
+.currentTemp {
+  fill: #390099;
+  fill-opacity: 0.7;
+}
+
+.currentTempText {
+  text-align: center;
+  fill: #fff;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.currentWind {
+  fill: #247ba0;
+}
+
+.currentWindText {
+  text-align: center;
+  fill: #000;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.currentWater {
+  fill: #ffe066;
+  fill-opacity: 0.8;
+}
+
+.currentWaterText {
+  text-align: center;
+  fill: #000;
+  font-size: 14px;
+}
+
+.titleLine {
+  fill: rgb(109 109 122);
+}
+.titleLineText {
+  text-align: center;
+  fill: #fff;
+  font-size: 13px;
+}
+
+.dayBlock {
+  fill: blue;
+  fill-opacity: 0.1;
+}
+
+.heatLine {
+  fill: url(/#wsGradient);
+}
+
+.cl1 {
+  stop-color: #7272ff;
+  stop-opacity: 0.6;
+}
+.cl2 {
+  stop-color: rgb(237, 145, 45);
+  stop-opacity: 0.6;
+}
+
+.day {
+  fill: #50514f;
+  fill-opacity: 0.7;
+}
